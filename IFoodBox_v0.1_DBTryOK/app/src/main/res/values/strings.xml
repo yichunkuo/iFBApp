@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">IFoodBox 我的雲端冰箱</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_act_food_list">管理冰箱</string>
+    <string name="section_format">我的冰箱好多東西 這是第 %1$d 頁</string>
+
+
+    <string-array name="spn_list">
+        <item>蔬菜類</item>
+        <item>水果類</item>
+        <item>魚肉類</item>
+        <item>飲品類</item>
+        <item>熱食類</item>
+        <item>其他類</item>
+    </string-array>
+
+    <string-array name="spn_date">
+        <item>1天</item>
+        <item>2天</item>
+        <item>3天</item>
+        <item>4天</item>
+        <item>5天</item>
+        <item>1周</item>
+    </string-array>
+
+    <string-array name="spn_foodtype">
+        <item>蔬菜類</item>
+        <item>水果類</item>
+        <item>魚肉類</item>
+        <item>飲品類</item>
+        <item>熟食類</item>
+        <item>其他類</item>
+    </string-array>
+
+    <string-array name="spn_foodlocation">
+        <item>冷凍</item>
+        <item>冷藏</item>
+    </string-array>
+
+    <string-array name="spn_foodclockdate">
+        <item>1天</item>
+        <item>2天</item>
+        <item>3天</item>
+        <item>4天</item>
+        <item>5天</item>
+    </string-array>
+
+
+
+
+
+
+</resources>
